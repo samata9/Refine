@@ -1,6 +1,6 @@
 #Import File
 #refine_original <- read.csv(file.choose(), header=TRUE)
-setwd("C:/Users/pankaj/Desktop/Samata/Springboard/Data Wrangling Exercise 1/")
+setwd("C:/Users/Springboard/Data Wrangling Exercise 1/")
 refine_original <- read.csv("refine_original.csv", header = TRUE)
 
 #attach(refine_original)
